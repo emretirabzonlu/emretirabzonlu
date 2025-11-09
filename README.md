@@ -86,4 +86,4 @@
   <a href="https://www.linkedin.com/in/emre-t%C4%B1rabzonlu-098356202/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emre Tırabzonlu LinkedIn" height="40" width="40" />
   </a>
-  </p>
+</p>
