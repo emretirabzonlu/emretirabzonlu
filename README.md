@@ -67,12 +67,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=emretirabzonlu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
     alt="Emre's GitHub Stats" 
     width="48%"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emretirabzonlu&layout=compact&theme=dracula" 
     alt="Emre's Top Languages" 
     width="48%"
   />
